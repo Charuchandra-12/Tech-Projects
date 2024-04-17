@@ -1,4 +1,4 @@
-**[DevOpsFlow: Automated CI/CD with Terraform, Docker, Jenkins, AWS, and GKE] (https://github.com/Charuchandra-12/Deploy-Anime-Quotes-App-To-GKE)**
+[DevOpsFlow: Automated CI/CD with Terraform, Docker, Jenkins, AWS, and GKE](https://github.com/Charuchandra-12/Deploy-Anime-Quotes-App-To-GKE)
 
 **BoardGame (Docker, AWS, Maven, k8s Kubeadm Cluster, GitHub Actions, Prometheus, Grafana, Trivy SonarQube)**
 
